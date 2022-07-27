@@ -1,0 +1,3 @@
+1) converting the eth to weth  (check)
+    TO DO ALL THE FUNCTION FROM DEPOST, WITHDRAW ,SWAP , ETC (IT IS TO BE DONE INSIDE THE LENDING THE POOL)
+2) deposit the eth (it's to be done by providing the lending pool address [abi, address])
